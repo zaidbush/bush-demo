@@ -1,4 +1,4 @@
 # bush-demo
 This is my first Git Repository
-<br>
-Author - Zaid Khan
+<br> <strong>
+Author - Zaid Khan </strong>
